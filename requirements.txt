@@ -1,0 +1,9 @@
+streamlit
+streamlit-option-menu
+numpy
+opencv-python
+pillow
+pandas
+plotly
+scikit-image
+cryptography
