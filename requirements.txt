@@ -1,4 +1,9 @@
-streamlit==1.32.0
+streamlit
+streamlit-option-menu
 numpy
 opencv-python-headless
 pillow
+pandas
+plotly
+scikit-image
+cryptography
