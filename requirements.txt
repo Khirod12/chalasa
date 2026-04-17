@@ -1,9 +1,9 @@
 streamlit==1.33.0
-streamlit-option-menu
-numpy
+streamlit-option-menu==0.3.6
+numpy==1.26.4
 opencv-python-headless==4.9.0.80
-pillow
-pandas
-plotly
+pillow==10.2.0
+pandas==2.2.1
+plotly==5.20.0
 scikit-image==0.22.0
-cryptography
+cryptography==42.0.5
