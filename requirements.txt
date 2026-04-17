@@ -1,9 +1,9 @@
-streamlit
+streamlit==1.33.0
 streamlit-option-menu
 numpy
-opencv-python-headless
+opencv-python-headless==4.9.0.80
 pillow
 pandas
 plotly
-scikit-image
+scikit-image==0.22.0
 cryptography
