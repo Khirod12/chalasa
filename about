@@ -1,0 +1,1 @@
+CipherVision 2.0 – CHALSA: An image steganography system that securely hides encrypted data using channel-adaptive 1–3 bit LSB embedding based on dual-texture analysis (Sobel + Local Variance), with AES-128-CBC encryption and a stored capacity map for reliable extraction.
